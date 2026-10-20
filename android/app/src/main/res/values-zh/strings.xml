@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">摇一摇守卫</string>
+    <string name="lab_title">传感器防误触实验室</string>
+    <string name="tile_label">防误触护盾</string>
+    <string name="accessibility_service_label">摇一摇守卫·传感器防误触辅助</string>
+    <string name="accessibility_service_description">【摇一摇守卫】用于辅助用户在颠簸出行或手部震颤场景下防止运动传感器误触发、提供跨应用调用二次确认及基于用户自定义规则的界面交互辅助。本服务完全在手机本地离线运行，无需联网权限，不内置针对任何特定第三方厂商的规则，不收集任何个人数据。</string>
+</resources>

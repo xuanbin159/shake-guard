@@ -1,0 +1,24 @@
+# Build intermediates
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+*.idsig
+*.jks
+*.keystore
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+
+# OS
+.DS_Store
+
+# Internal ontology state & legacy APK aliases
+osa/
+state/
+dist/ShakeGuard-v1.0.0.apk
+dist/ShakeGuard-v1.1.0.apk
+dist/ShakeGuard-v1.2.0.apk

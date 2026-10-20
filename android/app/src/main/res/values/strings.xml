@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ShakeGuard</string>
+    <string name="lab_title">Motion Sensor Sandbox</string>
+    <string name="tile_label">ShakeGuard</string>
+    <string name="accessibility_service_label">ShakeGuard · Motion Mis-Touch Guard</string>
+    <string name="accessibility_service_description">[ShakeGuard] Assists users with motion-sensor mis-touch prevention (for bumpy rides or hand tremors), cross-app URI launch confirmation, and general UI interaction assistance based on user-defined rules. Runs 100% offline locally without internet permissions or data collection.</string>
+</resources>
